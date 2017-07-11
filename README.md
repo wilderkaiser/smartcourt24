@@ -33,7 +33,7 @@ where you can find stable and (latest) development releases.
 
 ## Version
 
-The current version (July, 2017) is 1.6.1
+The current version (July, 2017) is 1.6.2
 
 
 ## Bug reports, feature requests, ideas ...
