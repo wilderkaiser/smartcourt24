@@ -1,9 +1,9 @@
 # SmartCourt24
 
-The SmartCourt is an open source (MIT licensed) web application to enable users to check and book free places of
-an arbitrary facility easily online.
+The SmartCourt is an open source web application to enable users to book and managers to organize places of
+an sports facility (Tennis, Squash, Badminton, Bowling ect) easily online.
 
-More features may be explored via our website (https://smartcourt24.at/) or simply by downloading and trying the system
+SmartCourt24 maybe explored via our website (https://smartcourt24.at/) or simply by downloading, installing and trying the system
 yourself.
 
 ## Documentation and installation
