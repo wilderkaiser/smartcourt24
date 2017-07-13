@@ -2,7 +2,7 @@
     "name": "wilderkaiser/smartcourt24",
     "description": "online booking system for courts",
     "license": "MIT",
-    "homepage": "https://smarthost24.at/",
+    "homepage": "https://smartcourt24.at/",
 
     "require": {
         "php": ">=5.4",
